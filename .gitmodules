@@ -1,0 +1,3 @@
+[submodule "TrotiNet"]
+	path = TrotiNet
+	url = git@github.com:krys-g/TrotiNet.git
